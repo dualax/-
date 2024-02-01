@@ -1,0 +1,14 @@
+C:\Users\Пользователь\OneDrive\Рабочий стол\задание3\bin\Debug\net8.0\задание3.exe
+C:\Users\Пользователь\OneDrive\Рабочий стол\задание3\bin\Debug\net8.0\задание3.deps.json
+C:\Users\Пользователь\OneDrive\Рабочий стол\задание3\bin\Debug\net8.0\задание3.runtimeconfig.json
+C:\Users\Пользователь\OneDrive\Рабочий стол\задание3\bin\Debug\net8.0\задание3.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\задание3\bin\Debug\net8.0\задание3.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\задание3\obj\Debug\net8.0\задание3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\OneDrive\Рабочий стол\задание3\obj\Debug\net8.0\задание3.AssemblyInfoInputs.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\задание3\obj\Debug\net8.0\задание3.AssemblyInfo.cs
+C:\Users\Пользователь\OneDrive\Рабочий стол\задание3\obj\Debug\net8.0\задание3.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\задание3\obj\Debug\net8.0\задание3.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\задание3\obj\Debug\net8.0\refint\задание3.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\задание3\obj\Debug\net8.0\задание3.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\задание3\obj\Debug\net8.0\задание3.genruntimeconfig.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\задание3\obj\Debug\net8.0\ref\задание3.dll
